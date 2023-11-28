@@ -1,10 +1,10 @@
 # Sistema Universidade
 ## Alunos Participantes:
-Dilma Ferreira de Oliveira
-lan Moraes Cerqueira Hamzi
-Katyuscia Kelly Ferreira de Freitas
-Michel Sodré Rodrigues
-Pietro Alves
+- Dilma Ferreira de Oliveira;
+- lan Moraes Cerqueira Hamzi;
+- Katyuscia Kelly Ferreira de Freitas;
+- Michel Sodré Rodrigues;
+- Pietro Alves;
 
 ## Diagramas
 
